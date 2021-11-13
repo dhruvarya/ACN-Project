@@ -1,6 +1,9 @@
-# Traffic Flow Classifier
+# Network Intrusion Detection System
 
 We built a traffic flow classifier and a monitoring app which analyses all the flows passed through a switch and flags the one which seem to be an anomaly.
+
+![webapp](https://user-images.githubusercontent.com/38999050/141610429-cfe3fdbc-0471-420f-b418-e13ada394151.jpeg)
+
 
 The classifier takes eight features of a flow as input 
 
